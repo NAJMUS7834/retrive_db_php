@@ -1,4 +1,4 @@
-<!--Created by Najmus Seemab on 08/09/18 at 5:54pm--->
+<!--Created by Najmus Seemab & Zeba Ali on 08/09/18 at 5:54pm--->
 <!DOCTYPE HTML>
 <html>
     <title>Read Data From Database Using PHP - First Demo Preview for our Startup </title>
